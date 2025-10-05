@@ -158,7 +158,4 @@ Daily Progress (<2 min)
 - **Social:** Small cohorts (5-10) with face-to-face meetings
 - **Privacy:** Essential for emotional sharing
 
-### Technologies
-See [Technical Stack](#-technical-stack) section
-
 ---
