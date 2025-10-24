@@ -9,8 +9,8 @@
 
 ## 📊 Learning Overview
 
-| Module | Course | Duration | Status | Date Completed |
-|--------|--------|----------|--------|----------------|
+| Module | Course | Duration |
+|--------|--------|----------|
 | 1 | Figma For Beginners (Official) | 1h | 
 | 2| UXtoast Certificate Course | 2h | ⏳ | 
 
@@ -101,3 +101,4 @@
 
 ### Completed Courses
 1. ✅ Figma For Beginners - Oct 23, 2025
+
