@@ -1,7 +1,7 @@
 # Figma Learning Progress
 
 > Learning log for UX Design course - Figma module
-> 
+> https://www.youtube.com/watch?v=EQ_FL6u8EyM
 > Project: QuestLabs Companion Design
 > Start Date: October 23, 2025
 
@@ -101,4 +101,5 @@
 
 ### Completed Courses
 1. ✅ Figma For Beginners - Oct 23, 2025
+
 
